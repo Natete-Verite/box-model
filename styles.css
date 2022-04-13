@@ -1,23 +1,25 @@
 .bottom{
-    border:  solid ;
-    border-color: black;
+    border: dashed ;
+    border-color: rgb(122, 26, 141);
     width: 90px;
     height: 90px;
     margin: 50px 0px 25px 40px;
     }
     .middle{
         border: solid;
-        border-color: brown;
+        border-color: rgb(133, 58, 126);
         width: 180px;
         height: 180px;
         margin: 40px 25px 50px 75px;
     }
     .top{
-        border: solid;
-        border-color: darkmagenta;
+        border: dotted;
+        border-color: rgb(82, 44, 82);
         width: 270px;
         height: 270px;  
         margin-left: 300px;
          margin-top: 200px;
     }
-    
+ h1{
+     text-align: center;
+ }  
